@@ -1,0 +1,4 @@
+name: new-proxy
+author: Infran
+version: 2.0
+main: br.com.infran.newproxy.ProxyPlugin
